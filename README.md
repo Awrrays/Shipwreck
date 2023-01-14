@@ -200,6 +200,10 @@ gcc去除黑窗口：`-mwindows`
 
 [2021-12-15 1.0] Shipwreck1.0完成
 
+22年年初刚写完这个框架的测试图
+
+![1](./readme-img/2.png)
+
 ## TODO
 
 1. 完善AES加密

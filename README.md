@@ -1,5 +1,8 @@
 # Shipwreck
 
+一个go版本的callback加载器库，可以集成进来
+[golang实现的回调函数加载器库](https://github.com/nu1r/GolangCallbackLoader)
+
 Input a raw file to bypass av and execute.
 
 一个只需要提供shellcode文件的免杀框架，可输出exe/dll/ps1

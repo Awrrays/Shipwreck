@@ -6,9 +6,9 @@
 python Shipwreck.py -e b64 --script go
 ```
 
-![image-20230321142326095](.\go.png)
+![image-20230321142326095](./readme-img\go.png)
 
-![image-20230321142518481](.\gorun.png)
+![image-20230321142518481](./readme-img\gorun.png)
 
 可用Callback参照：
 

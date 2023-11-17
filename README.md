@@ -1,5 +1,7 @@
 # 1.2.0
 
+用法参照[这里](https://github.com/Awrrays/Shipwreck/blob/main/OLD.md)
+
 新增go bypass
 
 ```sh
